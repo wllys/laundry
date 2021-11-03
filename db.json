@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"dblaundry"},
+{"type":"table","name":"tbl_laundry","database":"dblaundry","data":
+[
+{"id":"1","nama":"Willy","alamat":"Batam","prodi":"Tif"},
+{"id":"2","nama":"Saulim","alamat":"Singapore","prodi":"Tif"},
+{"id":"3","nama":"Anubis","alamat":"Batam","prodi":"Tpl"},
+{"id":"4","nama":"Andre","alamat":"Pollux","prodi":"Tif"},
+{"id":"5","nama":"Berlina","alamat":"London","prodi":"Tpl"}
+]
+}
+]
